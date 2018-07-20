@@ -14,3 +14,7 @@
 めんどうであれば、新規にissueを立ててもらってもかまいません。こちらで随時、各ページ用のissueとして編集のうえ、closeします。
 
 Reopenされる前の「コメントがついているissueの一覧」を確認したい場合のリンク→ https://github.com/LambdaNote/errata-opendatastructures-1-1/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed++comments%3A%3E0+
+
+## 本文ソースへの直接のContribution
+
+本文のソースはこちらで公開、メンテナンスされています。 https://github.com/spinute/ods
