@@ -1,6 +1,6 @@
 ## 『みんなのデータ構造』（2018年7月発行）正誤情報
 
-* [正誤と参考情報の一覧](https://github.com/LambdaNote/errata-opendatastructures-1-1/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc)
+* [正誤と参考情報の一覧](https://github.com/LambdaNote/errata-opendatastructure-1-1/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc)
 
 * [出版者による書籍ページ](https://www.lambdanote.com/products/opendatastructures)
 
